@@ -1,0 +1,10 @@
+python==3.6
+tensorflow
+keras==2.3.1
+numpy
+pandas
+scipy
+scikit-learn
+pickle
+os
+time
